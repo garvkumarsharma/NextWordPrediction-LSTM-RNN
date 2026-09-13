@@ -1,0 +1,16 @@
+tensorflow==2.17.0
+numpy<2
+pandas
+scikit-learn
+tensorboard==2.17.0
+matplotlib
+streamlit
+ipykernel
+scikeras
+nltk
+
+# uv python install 3.11
+# uv venv --python 3.11
+# .venv\Scripts\activate
+# uv pip install -r requirements.txt
+
