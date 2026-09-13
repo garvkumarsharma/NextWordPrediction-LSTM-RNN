@@ -2,14 +2,14 @@
 
 **Predict the next word in a sentence, trained on Shakespeare's Hamlet — powered by a stacked LSTM network built from scratch.**
 
-[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-Coming_Soon-2dd4bf?style=for-the-badge)](https://github.com/garvkumarsharma/NextWordPrediction-LSTM-RNN)
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-nextwordprediction--lstm--rnn--garv.streamlit.app-2dd4bf?style=for-the-badge)](https://nextwordprediction-lstm-rnn-garv.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.17-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-3-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![NLTK](https://img.shields.io/badge/NLTK-Gutenberg_Corpus-154f3c?style=flat)](https://www.nltk.org/)
 
-[**Live Demo**](https://github.com/garvkumarsharma/NextWordPrediction-LSTM-RNN) · [**Report a Bug**](https://github.com/garvkumarsharma/NextWordPrediction-LSTM-RNN/issues) · [**Request a Feature**](https://github.com/garvkumarsharma/NextWordPrediction-LSTM-RNN/issues)
+[**Live Demo**](https://nextwordprediction-lstm-rnn-garv.streamlit.app/) · [**Report a Bug**](https://github.com/garvkumarsharma/NextWordPrediction-LSTM-RNN/issues) · [**Request a Feature**](https://github.com/garvkumarsharma/NextWordPrediction-LSTM-RNN/issues)
 
 ---
 
@@ -34,7 +34,9 @@ Type any sequence of words into the app, and it will:
 
 ## 🔗 Live Demo
 
-> ### 👉 **Live demo link coming soon — will be added here after Streamlit Cloud deployment**
+> ### 👉 **[nextwordprediction-lstm-rnn-garv.streamlit.app](https://nextwordprediction-lstm-rnn-garv.streamlit.app/)**
+
+No installation needed — open the link, type in a phrase, and click Predict Next Word.
 
 **Repository:** [github.com/garvkumarsharma/NextWordPrediction-LSTM-RNN](https://github.com/garvkumarsharma/NextWordPrediction-LSTM-RNN)
 
@@ -198,7 +200,7 @@ The app will open at `http://localhost:8501`. Enter a phrase and click **Predict
 
 This project is intended for deployment on **Streamlit Community Cloud**, connected directly to this GitHub repository.
 
-**Live app:** *Coming soon — link will be added here after deployment*
+**Live app:** [nextwordprediction-lstm-rnn-garv.streamlit.app](https://nextwordprediction-lstm-rnn-garv.streamlit.app/)
 
 To deploy your own fork:
 
