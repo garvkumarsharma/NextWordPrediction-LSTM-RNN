@@ -48,8 +48,6 @@ No installation needed — open the link, type in a phrase, and click Predict Ne
 |---|---|
 | ![App Screenshot](screenshots/app.png) | ![Prediction Screenshot](screenshots/prediction.png) |
 
-> Add your own screenshots to a `screenshots/` folder in the repo and update the paths above.
-
 ---
 
 ## ✨ Key Features
